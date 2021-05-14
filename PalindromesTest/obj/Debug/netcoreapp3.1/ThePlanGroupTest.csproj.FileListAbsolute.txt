@@ -1,0 +1,13 @@
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\bin\Debug\netcoreapp3.1\ThePlanGroupTest.exe
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\bin\Debug\netcoreapp3.1\ThePlanGroupTest.deps.json
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\bin\Debug\netcoreapp3.1\ThePlanGroupTest.runtimeconfig.json
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\bin\Debug\netcoreapp3.1\ThePlanGroupTest.runtimeconfig.dev.json
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\bin\Debug\netcoreapp3.1\ThePlanGroupTest.dll
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\bin\Debug\netcoreapp3.1\ThePlanGroupTest.pdb
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\obj\Debug\netcoreapp3.1\ThePlanGroupTest.csprojAssemblyReference.cache
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\obj\Debug\netcoreapp3.1\ThePlanGroupTest.AssemblyInfoInputs.cache
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\obj\Debug\netcoreapp3.1\ThePlanGroupTest.AssemblyInfo.cs
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\obj\Debug\netcoreapp3.1\ThePlanGroupTest.csproj.CoreCompileInputs.cache
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\obj\Debug\netcoreapp3.1\ThePlanGroupTest.dll
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\obj\Debug\netcoreapp3.1\ThePlanGroupTest.pdb
+C:\Development\InterviewTest\ThePlanGroup\ThePlanGroupTest\ThePlanGroupTest\obj\Debug\netcoreapp3.1\ThePlanGroupTest.genruntimeconfig.cache
